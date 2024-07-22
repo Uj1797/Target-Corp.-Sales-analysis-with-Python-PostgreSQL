@@ -42,8 +42,8 @@ The dataset contains the following key details:
 5. Identify the top 3 customers who spent the most money in each year.
 
 ## Previews 
-![Uploadin![1](https://github.com/user-attachments/assets/e284c33f-11ce-49aa-aeee-5571df9cf82c)
-g 2.png…]()
+![2](https://github.com/user-attachments/assets/f76eaac3-414a-4964-8ab6-53254b286ac1)
+
 
 
 ![1](https://github.com/user-attachments/assets/e0693edf-198a-424c-9767-808b699caa83)
