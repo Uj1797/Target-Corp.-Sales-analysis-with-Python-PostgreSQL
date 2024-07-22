@@ -1,1 +1,1 @@
-# Target-Corp.-Sales-analysis-with-Python-PostgreSQL
+# Target-Corp-Sales-analysis-through-Python-and-PostgreSQL
