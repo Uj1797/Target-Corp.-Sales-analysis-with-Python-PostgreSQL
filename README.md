@@ -15,7 +15,7 @@ The dataset contains the following key details:
 - Product attributes
 - Customer reviews
 
-## Query Examples
+## Set of problems solved and insights extracted through the use of SQL and Jupyter in this project
 
 ### Basic Queries
 
