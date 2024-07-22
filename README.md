@@ -1,5 +1,4 @@
-![2](https://github.com/user-attachments/assets/85188115-99c4-4e76-b279-cde0fc5e2312)# Target-Corp-Sales-analysis-through-Python-and-PostgreSQL
-# Target Brazil Orders Dataset Analysis
+# Target Brazil Sales Dataset Analysis
 
 ## Project Description
 
@@ -46,7 +45,9 @@ The dataset contains the following key details:
 ![Uploadin![1](https://github.com/user-attachments/assets/e284c33f-11ce-49aa-aeee-5571df9cf82c)
 g 2.png…]()
 
+
 ![1](https://github.com/user-attachments/assets/e0693edf-198a-424c-9767-808b699caa83)
+
 
 ## License
 
